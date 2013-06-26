@@ -7,9 +7,9 @@ Package.on_use(function (api) {
     api.add_files([
         'lib/fcbklistselection.min.js',
         'lib/fcbklistselection.css',
-        'lib/images/checked.gif',
-        'lib/images/checked.png',
-        'lib/images/multi_selector_bg.gif'
+        'lib/checked.gif',
+        'lib/checked.png',
+        'lib/multi_selector_bg.gif'
     ], 'client'
     );
 
