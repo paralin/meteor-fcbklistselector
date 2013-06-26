@@ -1,0 +1,10 @@
+{
+    "name": "fcbklistselector",
+    "description": "Facebook friend style list selector.",
+    "homepage": "https://github.com/kidovate/meteor-fcbklistselector",
+    "author": "Christian Stewart",
+    "version": "0.1.1",
+    "git": "https://github.com/kidovate/meteor-fcbklistselector.git",
+    "packages": {
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "reddit": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "reddit": {
+        "path": "."
+      }
+    }
+  }
+}
